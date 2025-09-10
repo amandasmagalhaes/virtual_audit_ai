@@ -1,7 +1,5 @@
 api_key.env
-.env
-
 coordinates.xlsx
-.xlsx
-
-.csv
+street_view_dates.xlsx
+.ipynb_checkpoints
+cache

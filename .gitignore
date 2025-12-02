@@ -2,8 +2,5 @@ api_key.env
 gemini_api_key.env
 oss_bhviva_magalhaes_29.08.2025.dta
 Auditoria Virtual Amostra Total - 27 cidades.dta
-coordinates.xlsx
 /.ipynb_checkpoints
 /cache
-/street_view_images
-/street_view_outputs
